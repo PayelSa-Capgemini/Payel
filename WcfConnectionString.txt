@@ -1,0 +1,9 @@
+<connectionStrings>
+    <add name="sqlpracticeConn" connectionString="user id=sa;password=Dotnet@123;data source=DESKTOP-CQUFFI8\PAYEL;Initial Catalog=sqlpractice;" providerName="System.Data.SqlClient" />
+  </connectionStrings>
+
+
+
+
+
+http://localhost:50639/EmpService.svc
